@@ -1,0 +1,12 @@
+h1{
+	/*sets the font for the text*/
+	font-family:sans-serif;
+	/*sets the font size*/
+	font-size: 30px;
+	/*sets the syle of the outline*/
+	outline-style:inset;
+	/*sets the border for the text*/
+	border-style:solid;
+	/*sets the color for the text*/
+	color:blue;
+}
